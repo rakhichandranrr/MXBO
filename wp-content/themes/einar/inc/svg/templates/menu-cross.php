@@ -1,0 +1,1 @@
+<svg class="<?php echo esc_attr( $class ); ?>" xmlns="http://www.w3.org/2000/svg" width="21" height="21" viewBox="0 0 21 21" fill="currentColor"><rect y="9" width="21" height="3"/><rect x="9" width="3" height="21"/></svg>
